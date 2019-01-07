@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: HCD
-url: "http://blogcloud365vn.github.io/"
+title: Blog Cloud365
+url: "https://blogcloud365vn.github.io/"
 baseurl: 
 google_analytics_key:
 disqus_shortname: 
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: cloud365.vn
+  name: blog.cloud365.vn
   links:
-    - http://blogcloud365vn.github.io/
+    - https://blogcloud365vn.github.io/
 
 # -----
 # Build
